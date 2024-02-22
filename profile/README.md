@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/MobyPayTech/.-github/assets/13252355/8fc6837e-d95f-4c20-b250-f81f059a40ae">
+  <img alt="Moby Group Logo" width="40%" src="https://github.com/MobyPayTech/.-github/assets/13252355/8fc6837e-d95f-4c20-b250-f81f059a40ae">
 </p>
 
 
