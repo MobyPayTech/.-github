@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img alt="Moby Group Logo" width="40%" src="https://github.com/MobyPayTech/.-github/assets/13252355/8fc6837e-d95f-4c20-b250-f81f059a40ae">
-</p>
-
-
 ### About Moby Money
 Welcome to Moby Money, where our mission is to revolutionize the way individuals and businesses interact with financial technology. Founded 2018, Moby Money is at the forefront of developing innovative payment solutions designed to simplify transactions, enhance security, and foster financial inclusivity across the globe.
 
