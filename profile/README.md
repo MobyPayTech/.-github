@@ -14,7 +14,7 @@ We believe in building tools that empower developers, make integration seamless,
 #### Our Roadmap to Improvement
 To show our dedication and transparency, we've outlined a roadmap of the enhancements we're planning. Here's what you can expect in the coming months:
 
-Q1 2024: The launch of our developer forum, utilizing GitHub Discussions to allow developers to discuss integrations, collaborate, and share knowledge in a dedicated community space.
+Q1 2024: The launch of our developer forum, utilizing [GitHub Discussions](https://github.com/orgs/MobyPayTech/discussions) to allow developers to discuss integrations, collaborate, and share knowledge in a dedicated community space.
 
 Q2 2024: Creation of clear, concise, and comprehensive integration documentation, designed to simplify the integration process and provide you with all the resources you need to succeed.
 
@@ -25,4 +25,4 @@ Q4 2024: Introduction of SDKs for popular programming languages, enhancing suppo
 #### Be Part of the Journey
 This journey towards improvement is not just ours to undertake; we invite you to be an integral part of it. Your feedback, ideas, and contributions are invaluable to us. Let's collaborate to make Moby Money's developer tools exceptional.
 
-Stay engaged with our progress, contribute to the discussion, and help shape the future of Moby Money's developer tools by following our updates, joining our developer forum, and reaching out with your feedback at developer@moby.my.
+Stay engaged with our progress, contribute to the discussion, and help shape the future of Moby Money's developer tools by following our updates, joining our [developer forum](https://github.com/orgs/MobyPayTech/discussions), and reaching out with your feedback at developer@moby.my.
